@@ -1,0 +1,5 @@
+# Julia version
+julia==1.7.0
+
+# Required Julia packages
+IJulia
