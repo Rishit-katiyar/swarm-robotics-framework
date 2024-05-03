@@ -67,7 +67,6 @@ To contribute to the project, follow these steps:
 
 This project is licensed under the GNU General Public License v3.0 (GNU GPLv3). See the [LICENSE](LICENSE) file for details.
 
----
 
 **👨‍💻 Happy Swarming! 🤖**
-```
+
